@@ -1,7 +1,7 @@
 # Palingrams
 
 
-Based on the book, Impractical Python Projects, currently loads a dictionary and finds all 2 word palingrams that are possible. 
+Based on the book, Impractical Python Projects, currently loads a dictionary and finds all possible 2 word palingrams using words that are at least 2 letters long. 
 
 
 # TODO
